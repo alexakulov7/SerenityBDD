@@ -1,0 +1,1 @@
+curl -i -X POST -H "Content-Type:application/json; charset=UTF-8" -d "{  \"userId\" : 1, \"title\" : \"qqq\", \"body\" : \"body body body\"}" https://jsonplaceholder.typicode.com/posts/
